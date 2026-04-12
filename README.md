@@ -43,6 +43,10 @@
        src="https://streak-stats.demolab.com?user=RomagnoliSte&theme=default&hide_border=true&ring=EC407A&fire=F06292&currStreakLabel=E91E63&sideLabels=C2185B&dates=AD1457" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RomagnoliSte/RomagnoliSte/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🌐 Contato
